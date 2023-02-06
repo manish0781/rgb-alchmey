@@ -1,0 +1,16 @@
+.cls-alchmey-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.empty-div {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  margin: 3px;
+}
+
+.inner-div {
+  width: 28px;
+  margin-right: 5px;
+}
