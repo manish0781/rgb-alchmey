@@ -1,2 +1,4 @@
-# rgb-alchmey
-rgb-alchmey game
+**Prerequisite**
+
+**rgb-alchmey-ui**
+
