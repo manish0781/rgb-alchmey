@@ -1,0 +1,29 @@
+.cls-label {
+  align-items: center;
+  width: 240px;
+  padding: 16px;
+}
+
+.box-with-label {
+  display: flex;
+  align-items: center;
+}
+
+.cls-label span {
+  font-weight: bold;
+  color: black;
+  margin: 10px;
+}
+
+.cls-label .box {
+  height: 25px;
+  width: 25px;
+  border: 2px solid gray;
+}
+
+.delta {
+  width: 0;
+  height: 0;
+  border: solid 30px;
+  border-color: transparent transparent black transparent;
+}
