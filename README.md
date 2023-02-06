@@ -7,11 +7,11 @@
 
 ## Steps to run the application
 
-- make sure **color-alchemy-server** node api application is up and running.
+- Make sure **color-alchemy-server** node api application is up and running.
 
-- Goto rgb-alchmey-ui folder and execute **npm install** command to install all the dependencies.
+- Goto **rgb-alchmey-ui** folder and execute **npm install** command to install all the dependencies.
 
-- run **npm start** run the application.
+- Run **npm start** run the application.
 
 
 
