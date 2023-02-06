@@ -2,7 +2,10 @@
 
 ## Assumptions
 
-*User will have 
+- User will have **color-alchemy-server** application to run this UI.
+
+
+## 
 
 
 
