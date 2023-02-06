@@ -1,10 +1,12 @@
-#### rgb-alchmey-ui
+# rgb-alchmey-ui
 
-**Assumptions**
+##Assumptions
 
---user will have **color-alchemy-server** application
+--user will already have **color-alchemy-server** application as this application is required to run this project.
 
-**Steps to run *rgb-alchmey-ui* project**
+##Steps to run *rgb-alchmey-ui* project**
+
+*1 
 
 
 
